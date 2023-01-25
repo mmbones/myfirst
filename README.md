@@ -3,7 +3,7 @@ my first to creat a repository
 i will write my bioinformatics workshop that started on monday
 
 # day one
-**instalation of tools
+**instalation of tools**
 
 installed git bash and R studio
 
