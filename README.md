@@ -8,18 +8,19 @@ i will write my bioinformatics workshop that started on monday
 installed git bash and R studio
 
 # day two
-**introduction to command line**
+
+**introduction to command line*
 
 
-1.cd-changes directory
-2.pwd-print work directory to know where you are
-3.mkdir-while creating a file
-4.nano-creating a document
-5.cd..-moving back one step
-6.ls-listing current document
-7.mv-moving document from the folder
-8.cd../.. moving two steps back
-9.rm-removing a folder
+1.  cd-changes directory
+2.  pwd-print work directory to know where you are
+3.  mkdir-while creating a file
+4.  nano-creating a document
+5.  cd..-moving back one step
+6.  ls-listing current document
+7.  mv-moving document from the folder
+8.  cd../.. moving two steps back
+9.  rm-removing a folder
 
 # day three
 
