@@ -8,8 +8,7 @@ i will write my bioinformatics workshop that started on monday
 installed git bash and R studio
 
 # day two
-
-**introduction to command line*
+**introduction to command line**
 
 
 1.  cd-changes directory
