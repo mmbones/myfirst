@@ -3,20 +3,17 @@ my first to creat a repository
 i will write my bioinformatics workshop that started on monday
 
 # day one
-# instalation of tools
+**instalation of tools
 
-**installed;
--git bash
--Rstudio
+installed:
+git bash
+Rstudio
 
 # day two
 
-introduction to command line
-cd-change directory
-pwd-print work directory
-mkdir-while creating a file
-nano-
+introduction to commandline
+
 # day three
 
-introduction to command line
+introduction to git
 
